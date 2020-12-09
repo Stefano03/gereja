@@ -1,0 +1,81 @@
+/*header home*/
+.header{
+	/*background-image: url('../image/bgheader.png');*/
+	background-color: #701aab;
+	width: 100%;
+	z-index: 1000;
+	/*position: fixed;*/
+}
+
+.dropdown-item{
+	color: #0d0d51;
+}
+/*gambar logo*/
+.gambar{
+	width: 40px;
+	height: 40px;
+}
+
+/*content home*/
+.content{
+	padding-top: 70px;
+	/*background-color: #fff5ee;*/
+	background-image: url('../image/bgcan.png');
+	background-size: cover;
+}
+
+.topbarhome{
+	/*padding-top: 65px;*/
+	height: auto;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color: #f0ffff;
+}
+
+/*gambar topbar home*/
+.image{
+	height: auto;
+	width: 100%;
+	border-top: 5px solid red;
+	border-bottom: 5px solid #0d0d53;
+
+}
+
+.gambarlink{
+	height: auto;
+	width: 20%;
+	float: left;
+	margin: 5px
+}
+
+/*footer home*/
+.footer{
+	background-image: url('../image/footer.png');
+	padding-top: auto; 
+	color: #f0ffff;
+	margin-top: auto;
+	height: auto;
+	width: 100%;
+	background-size: cover;
+}
+
+/*conten admin*/
+.contents{
+	background-image: url('../image/bgcan.png');
+	background-size: cover;
+}
+
+.auth{
+	background-image: url('../image/bglogin.png');
+	background-size: cover;
+}
+
+/*bagian admins*/
+.sidebars{
+	background-color: #0d0d51;
+}
+
+.topbars{
+	background-color: #701aab;
+	color: orange;
